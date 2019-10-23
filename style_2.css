@@ -1,0 +1,27 @@
+body{
+    padding: 0 200px;
+}
+.titleHead{
+    float: left;
+    width: 180px;
+    height: 900px;
+    background-color: 	#00BFFF;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.titleBody{
+    padding-top: 5px;
+    padding-left: 200px;
+}
+.tableHead{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.tableBody{
+    font-size: 18px;
+}
+
+.turnLine{
+}

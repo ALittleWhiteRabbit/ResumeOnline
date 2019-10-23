@@ -1,0 +1,38 @@
+body{
+    padding: 0 200px;
+}
+.titleHead{
+    height: 50px;
+    background-color: 	rgb(86, 93, 95);
+    color: white;
+    text-align: left;
+    font-size: 10px;
+    padding-top: 1px;
+    padding-left: 10px;
+}
+.titleBody{
+}
+.tableHead{
+    float: left;
+    clear: left;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+    width:80px;
+    height: 80px;
+    background-color: rgb(182, 178, 178);
+}
+
+.tableBody{
+    font-size: 10px;
+    height: 80px;
+    padding-left: 90px;
+    border: 1px solid gray;
+}
+
+p.turnLine{
+    display: inline;
+}
+a{
+    color: blue;
+}
